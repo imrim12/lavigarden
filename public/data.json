@@ -1,0 +1,154 @@
+{
+  "assets": {
+    "kraftTexture": "url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj48ZmlsdGVyIGlkPSJub2lzZSI+PGZlVHVyYnVsZW5jZSB0eXBlPSJmcmFjdGFsTm9pc2UiIGJhc2VGcmVxdWVuY3k9IjAuOCIgbnVtT2N0YXZlcz0iMyIgc3RpdGNoVGlsZXM9InN0aXRjaCIvPjxmZUNvbG9yTWF0cml4IHR5cGU9InNhdHVyYXRlIiB2YWx1ZT0iMCIvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbHRlcj0idXJsKCNub2lzZSkiIG9wYWNpdHk9IjAuMTUiLz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZjRmMWUzIiBtaXgtYmxlbmQtbW9kZT0ibXVsdGlwbHkiLz48L3N2Zz4=')"
+  },
+  "header": {
+    "logo": "Lavi's Garden",
+    "hotline": "0385 513 192",
+    "nav": [
+      { "name": "Tiệm Cây", "href": "#shop" },
+      { "name": "Trang Trí Nhà", "href": "#services" },
+      { "name": "Chuyện Của Lá", "href": "#story" },
+      { "name": "Liên Hệ", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "badge": "🌿 Chào mừng bạn đến với Lavi",
+    "headlinePart1": "Gieo Mầm Xanh",
+    "headlinePart2": "Gặt Bình Yên",
+    "subheadline": "Một chút xanh mát cho bàn làm việc, một chút thơ mộng cho ngôi nhà giữa lòng Đà Nẵng. Hãy để thiên nhiên chữa lành tâm hồn bạn.",
+    "ctaPrimary": "Trang Trí Nhà",
+    "ctaPrimaryLink": "#services",
+    "ctaSecondary": "Tìm Đường",
+    "ctaSecondaryLink": "https://maps.app.goo.gl/vVqbfoSWsqR4F7mP7",
+    "polaroidText": "\"Trạm sạc cảm hứng\"",
+    "image": "https://picsum.photos/600/800"
+  },
+  "products": {
+    "badge": "Góc Bàn Làm Việc",
+    "title": "Bạn Đồng Hành Trên Bàn Phím",
+    "items": [
+      {
+        "id": "1",
+        "name": "Bonsai Tí Hon",
+        "description": "Dáng thế cổ thụ thu nhỏ, mang lại sự vững chãi và tĩnh tại cho tâm hồn.",
+        "longDescription": "Sản phẩm Bonsai Tí Hon được nghệ nhân Lavi uốn nắn tỉ mỉ từ những cây con khỏe mạnh nhất. Với dáng thế vững chãi, nó tượng trưng cho sự kiên định và trường tồn. Thích hợp đặt trên bàn làm việc của lãnh đạo hoặc góc trà đạo yên tĩnh.",
+        "imageUrl": "https://picsum.photos/400/500?random=1",
+        "price": "350.000đ"
+      },
+      {
+        "id": "2",
+        "name": "Tùng Thơm Đà Lạt",
+        "description": "Hương thơm dịu nhẹ xua tan mệt mỏi, lá xanh quanh năm đầy sức sống.",
+        "longDescription": "Cây Tùng Thơm (Hương Tùng) tỏa ra mùi tinh dầu chanh sả tự nhiên rất dễ chịu, giúp thư giãn tinh thần và xua đuổi côn trùng. Cây có màu xanh mạ non tươi tắn, thích hợp để bàn học, bàn làm việc để kích thích sự sáng tạo.",
+        "imageUrl": "https://picsum.photos/400/500?random=2",
+        "price": "180.000đ"
+      },
+      {
+        "id": "3",
+        "name": "Sen Đá Mơ Mộng",
+        "description": "Những cánh hoa đá kiên cường, sắc màu pastel ngọt ngào như những giấc mơ.",
+        "longDescription": "Mix các loại sen đá màu pastel (hồng phấn, xanh ngọc, tím nhạt) trong một chậu gốm mộc. Sen đá biểu tượng cho tình bạn bền chặt và tình yêu vĩnh cửu. Cây rất dễ chăm sóc, chỉ cần nhiều nắng và ít nước.",
+        "imageUrl": "https://picsum.photos/400/500?random=3",
+        "price": "95.000đ"
+      },
+      {
+        "id": "4",
+        "name": "Cây Hạnh Phúc",
+        "description": "Lá xanh bóng mượt, mang lại niềm vui và may mắn cho gia chủ.",
+        "longDescription": "Đúng như tên gọi, Cây Hạnh Phúc mang lại năng lượng tích cực và sự đầm ấm. Tán lá xum xuê, xanh đậm, bề mặt lá bóng loáng. Cây chịu được bóng râm bán phần, rất thích hợp trang trí nội thất phòng khách hoặc văn phòng.",
+        "imageUrl": "https://picsum.photos/400/500?random=4",
+        "price": "250.000đ"
+      },
+      {
+        "id": "5",
+        "name": "Trầu Bà Cẩm Thạch",
+        "description": "Vẻ đẹp loang màu độc đáo, lọc không khí cực tốt.",
+        "longDescription": "Những chiếc lá hình tim với vân màu trắng kem pha xanh mát mắt. Trầu Bà Cẩm Thạch nổi tiếng với khả năng thanh lọc không khí, hấp thụ bức xạ điện tử. Dạng cây rủ nhẹ nhàng, thích hợp để trên kệ sách hoặc treo cửa sổ.",
+        "imageUrl": "https://picsum.photos/400/500?random=5",
+        "price": "120.000đ"
+      },
+      {
+        "id": "6",
+        "name": "Xương Rồng Tai Thỏ",
+        "description": "Dễ thương, gai góc nhưng đầy nghị lực sống.",
+        "longDescription": "Hình dáng ngộ nghĩnh giống đôi tai thỏ, loại xương rồng này rất được các bạn trẻ yêu thích. Cây chịu hạn cực tốt, biểu tượng cho sức sống mãnh liệt vượt qua nghịch cảnh. Một món quà động viên ý nghĩa.",
+        "imageUrl": "https://picsum.photos/400/500?random=6",
+        "price": "85.000đ"
+      },
+      {
+        "id": "7",
+        "name": "Cẩm Nhung Fittonia",
+        "description": "Lá gân lưới tinh xảo, màu sắc rực rỡ thu hút mọi ánh nhìn.",
+        "longDescription": "Fittonia hay còn gọi là Lá May Mắn, nổi bật với hệ thống gân lá màu đỏ, hồng hoặc trắng nổi bật trên nền xanh. Cây ưa ẩm và bóng râm, rất thích hợp trồng trong các bình terrarium (tiểu cảnh thủy tinh).",
+        "imageUrl": "https://picsum.photos/400/500?random=7",
+        "price": "75.000đ"
+      },
+      {
+        "id": "8",
+        "name": "Kim Tiền Tài Lộc",
+        "description": "Lá kép xanh thẫm, mang ý nghĩa phú quý và thịnh vượng.",
+        "longDescription": "Cây Kim Tiền là lựa chọn số 1 cho phong thủy văn phòng. Thân vươn cao, lá xếp đối xứng như chuỗi tiền cổ. Người ta tin rằng cột nơ đỏ lên cây Kim Tiền sẽ giúp gia tăng vận may về tài chính.",
+        "imageUrl": "https://picsum.photos/400/500?random=8",
+        "price": "290.000đ"
+      },
+      {
+        "id": "9",
+        "name": "Bàng Singapore Mini",
+        "description": "Dáng thẳng đứng hiện đại, lá to tròn sang trọng.",
+        "longDescription": "Phiên bản mini của loài cây nội thất nổi tiếng. Bàng Singapore có lá to, tròn, xanh đậm, dáng cây mọc thẳng rất gọn gàng. Phù hợp với không gian kiến trúc hiện đại, phong cách Bắc Âu (Scandinavian).",
+        "imageUrl": "https://picsum.photos/400/500?random=9",
+        "price": "220.000đ"
+      },
+      {
+        "id": "10",
+        "name": "Lan Cẩm Cù",
+        "description": "Hoa hình cầu như những ngôi sao nhỏ, lá dày cứng cáp.",
+        "longDescription": "Một loại dây leo có hoa rất đẹp và thơm. Hoa Cẩm Cù mọc thành chùm hình cầu, các bông hoa nhỏ xíu như ngôi sao được làm bằng sáp. Cây sống bền, chịu được khô hạn, thích hợp treo ban công.",
+        "imageUrl": "https://picsum.photos/400/500?random=10",
+        "price": "150.000đ"
+      }
+    ],
+    "viewAllText": "Xem tất cả cây xanh"
+  },
+  "services": {
+    "titlePart1": "Biến Nhà Thành",
+    "titlePart2": "Khu Vườn Cổ Tích",
+    "descriptions": [
+      "Bạn có mơ về một không gian sống nơi mỗi hơi thở đều đượm mùi cỏ cây? Tại Lavi's Garden, chúng mình không chỉ bán cây, chúng mình trao gửi những mảng xanh nghệ thuật.",
+      "Dù là một góc ban công nhỏ hẹp hay phòng khách rộng lớn, Lavi sẽ giúp bạn \"thổi hồn\" vào không gian bằng những chậu cây được phối kết tỉ mỉ, mang lại cảm giác thư thái tuyệt đối sau ngày dài làm việc."
+    ],
+    "features": [
+      "Tư vấn phong thuỷ & ánh sáng miễn phí",
+      "Thiết kế chậu cây theo phong cách riêng",
+      "Bảo hành & chăm sóc định kỳ"
+    ],
+    "cta": "Gọi Lavi Tư Vấn",
+    "image": "https://picsum.photos/800/1000"
+  },
+  "contact": {
+    "title": "Ghé Thăm Khu Vườn Nhỏ",
+    "description": "Một không gian yên bình nằm giữa lòng Đà Nẵng, nơi bạn có thể chạm tay vào lá, hít hà mùi đất và chọn cho mình một người bạn xanh.",
+    "addressLabel": "Địa chỉ",
+    "address": "338/25 Hoàng Diệu, Phước Ninh,\nHải Châu, Đà Nẵng",
+    "hotlineLabel": "Hotline",
+    "hotline": "0385513192",
+    "hoursLabel": "Giờ mở cửa",
+    "hours": "09:00 - 21:00 \n(Tất cả các ngày trong tuần)",
+    "connectTitle": "Kết nối với Lavi",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.159896321672!2d108.2161429!3d16.0571903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421925d3242fe1%3A0x346b4026c0e45a24!2sLavi%20Garden!5e0!3m2!1sen!2ssg!4v1765532887552!5m2!1sen!2ssg",
+    "facebookUrl": "https://www.facebook.com/lavigarden.dn",
+    "instagramUrl": "https://www.instagram.com/lavigarden.dn"
+  },
+  "footer": {
+    "brand": "Lavi's Garden",
+    "tagline": "Mang rừng về phố, gói ghém bình yên.",
+    "copyright": "Được trồng và chăm sóc bởi Lavi's Garden",
+    "year": "2024",
+    "links": [
+      { "text": "Chính sách bảo hành", "href": "#" },
+      { "text": "Hướng dẫn chăm sóc", "href": "#" }
+    ],
+    "decorText": "Live Green. Love Life."
+  }
+}

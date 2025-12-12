@@ -11,7 +11,7 @@ function App() {
   const [data, setData] = useState<SiteData | null>(null);
 
   useEffect(() => {
-    fetch('/data.json')
+    fetch('data.json')
       .then(res => res.json())
       .then((fetchedData: SiteData) => {
         setData(fetchedData);
